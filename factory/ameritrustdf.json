@@ -1,0 +1,9 @@
+{
+	"name": "ameritrustdf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c4673306-cf17-42d9-a5b8-4a85b220413b",
+		"tenantId": "30bf9f37-d550-4878-9494-1041656caf27"
+	}
+}
