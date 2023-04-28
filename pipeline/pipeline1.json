@@ -15,7 +15,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"functionName": "Function1",
+					"functionName": "HttpTrigger1",
 					"method": "POST",
 					"body": {
 						"name": "Azure"
